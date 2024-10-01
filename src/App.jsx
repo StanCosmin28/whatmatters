@@ -5,6 +5,7 @@ import Stories from "./components/Stories";
 import Article from "./components/Article";
 import OCRs from "./components/OCRs";
 import Footer from "./components/Footer";
+
 function App() {
   return (
     <>

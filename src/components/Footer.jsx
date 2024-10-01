@@ -70,7 +70,7 @@ export default function Footer() {
             <a href="stan-cosmin.com">Update Cookie Preferences</a>
             <div className="socials">
               <a id="first-icon" href="/">
-                {/* X Icon */}
+                {" "}
                 {/* X Icon */}
               </a>
               <a href="/">{/* Facebook Icon */}</a>
